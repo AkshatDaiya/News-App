@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Squid, songs & half-time sandwiches - 24 hours in Bilbao",
+    "description": "BBC Sport's Liam Loftus travels across Europe to sample the fan culture in four of the continent's finest football cities. Next stop is Bilbao",
+    "url": "http://www.bbc.co.uk/sport/av/football/65393139",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/191E/production/_129503460_bilbaowebstill1.jpg",
+    "publishedAt": "2023-04-26T07:37:18.4245246Z",
+    "content": "BBC Sport's Liam Loftus travels across Europe to sample the fan culture in four of the continent's finest football cities.\r\nHis third stop is Bilbao, where he meets Athletic Club fan Alize, who teach… [+95 chars]"
+    },
+    {
+    "source": {
+    "id": "der-tagesspiegel",
+    "name": "Der Tagesspiegel"
+    },
+    "author": "Boris Buchholz",
+    "title": "Berliner Südwesten will fit für die Zukunft werden: Umfrage zu Freizeit- und Vereinssport gestartet",
+    "description": "Wo und wie halten sich die Menschen in Steglitz-Zehlendorf fit? Mit einer Online-Befragung soll die Basis für eine Verbesserung der Sportangebote gelegt werden.",
+    "url": "https://www.tagesspiegel.de/berlin/berliner-sudwesten-will-fit-fur-die-zukunft-werden-umfrage-zu-freizeit-und-vereinssport-gestartet-9720338.html",
+    "urlToImage": "https://www.tagesspiegel.de/images/immer-schon-langsam-mit-slow-jogging-zu-mehr-bewegung1/alternates/BASE_16_9_W1400/immer-schoen-langsammit-slow-jogging-zu-mehr-bewegung.jpeg",
+    "publishedAt": "2023-04-26T07:11:14+00:00",
+    "content": "Von den rund 310.000 Einwohnerinnen und Einwohner des Bezirks sind 69.500 in über 335 Sportvereinen, Betriebssportgemeinschaften und anderen Gruppen aktiv, rund 80 Sportarten werden betrieben. Und no… [+4996 chars]"
+    },
+    {
+    "source": {
+    "id": "lequipe",
+    "name": "L'equipe"
+    },
+    "author": "L'EQUIPE",
+    "title": "À Nice, au coeur de la cellule de recrutement la plus dense de France",
+    "description": "L'OGC Nice possède la cellule de recrutement la plus dense de France. Florent Ghisolfi, le nouveau directeur sportif, est doucement en train d'y faire infuser ses méthodes.",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-nice-le-recrutement-est-un-travail-tres-collectif/1393334",
+    "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/rivere-jean-pierre-ghisolfi-florent-f-porcu-l-equipe/1500000001777367/115:242,1740:1325-640-427-75/bb38b.jpg",
+    "publishedAt": "2023-04-26T07:05:00+00:00",
+    "content": "Racheté par Ineos, qui ambitionne de se développer comme un groupe qui compte dans le monde du football - avec un possible rachat de Manchester United -, Nice faisait déjà partie des clubs les plus s… [+1957 chars]"
+    },
+    {
+    "source": {
+    "id": "wirtschafts-woche",
+    "name": "Wirtschafts Woche"
+    },
+    "author": "Wirtschaftswoche",
+    "title": "Südewo-Wohnungsportfolio: Vonovia verkauft in Milliarden-Transaktion Anteil an Immobilien-Paket",
+    "description": "Der Immobilienkonzern trennt sich von seinem Südewo-Minderheitsanteil. Der Erlös soll unter anderem der Rückzahlung von Schulden dienen – und leitet das Ende des Expansionskurses ein.",
+    "url": "https://www.wiwo.de/unternehmen/dienstleister/suedewo-wohnungsportfolio-vonovia-schliesst-milliarden-deal-mit-us-investor-apollo/29115486.html",
+    "urlToImage": "https://www.wiwo.de/images/ein-schild-des-unternehmens-vonovia-an-einem-stadtteilbuero-in-essen-04-02-2022-essen-deutschland-a-sign-of-the-c/29115522/2-format11240.jpg",
+    "publishedAt": "2023-04-26T06:50:20+00:00",
+    "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+    },
+    {
+    "source": {
+    "id": "lequipe",
+    "name": "L'equipe"
+    },
+    "author": "L'EQUIPE",
+    "title": "Les athlètes russes et biélorusses auront une déclaration à signer pour retrouver la compétition",
+    "description": "Selon Francesco Ricci Bitti, le président de l'Association des fédérations internationales olympiques d'été, le mouvement sportif travaille sur un texte que devraient signer les Russes et les Biélorusses pour renouer avec la compétition.",
+    "url": "https://www.lequipe.fr/Tous-sports/Actualites/Les-athletes-russes-et-bielorusses-auront-une-declaration-a-signer-pour-retrouver-la-competition/1393340",
+    "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/des-athletes-du-comite-olympique-russe-lors-de-la-ceremonie-d-ouverture-des-jeux-olympiques-de-tokyo/1500000001777377/0:0,1509:1006-640-427-75/78e20.jpg",
+    "publishedAt": "2023-04-26T06:26:00+00:00",
+    "content": "Le mouvement olympique continue d'avancer dans le processus de réintégration des sportifs russes et biélorusses dans les compétitions internationales. À l'issue d'une audition sur l'exclusion de ces … [+3101 chars]"
+    },
+    {
+    "source": {
+    "id": "il-sole-24-ore",
+    "name": "Il Sole 24 Ore"
+    },
+    "author": "Carmine Fotina",
+    "title": "Ucraina, summit a Roma sulla ricostruzione tra energia, export e trasporti",
+    "description": "Dopo quelle di Germania e Francia, oggi l’incontro tra governi e imprese. Iscritte 600 aziende italiane e 150 ucraine, focus su sette settori",
+    "url": "https://www.ilsole24ore.com/art/ucraina-summit-roma-ricostruzione-energia-export-e-trasporti-AE4K4rLD",
+    "urlToImage": "https://i2.res.24o.it/images2010/2023/04/AE4K4rLD/images/d218b4d0-e394-11ed-9ae1-23bc68a92b15-fotohome0.jpg",
+    "publishedAt": "2023-04-26T05:43:42Z",
+    "content": "Ascolta la versione audio dell'articolo\r\n2' di lettura\r\nLItalia prova a mettere qualche base concreta per i futuri progetti di ricostruzione in Ucraina, al centro oggi a Roma, al Palazzo dei Congress… [+2857 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Will Etihad showdown decide title?",
+    "description": "BBC Sport looks at what to expect in Wednesday's showdown between title rivals Manchester City and Arsenal.",
+    "url": "http://www.bbc.co.uk/sport/football/65328322",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/132F3/production/_129497587_mancityarsenal.png",
+    "publishedAt": "2023-04-26T05:37:20.6128577Z",
+    "content": "Mikel Arteta started his coaching career as Pep Guardiola's assistant at Manchester City\r\nManchester City and Arsenal go head to head in a Premier League title showdown on Wednesday - and one of the … [+8611 chars]"
+    },
+    {
+    "source": {
+    "id": "lequipe",
+    "name": "L'equipe"
+    },
+    "author": "L'EQUIPE",
+    "title": "Programme TV sportif du 26 avril 2023 : sur quelles chaînes regarder du sport ?",
+    "description": "Retrouvez le programme TV et streaming détaillé du 26 avril 2023 des événements sportifs retransmis sur toutes les chaînes du bouquet TNT, Câble et Satellite. Tennis, rugby, basket, handball... Découvrez la liste des événements sportifs à ne surtout pas manqu…",
+    "url": "https://www.lequipe.fr/Tous-sports/Actualites/Programme-tv-sportif-du-26-avril-2023-sur-quelles-chaines-regarder-du-sport/1393370",
+    "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/thiem-dominic-aut/1500000001643967/0:0,2496:1664-640-427-75/398fe.jpg",
+    "publishedAt": "2023-04-26T05:00:04+00:00",
+    "content": "NBA\r\n Cleveland - NY Knicks ()Heure : coup d'envoi à 1 heure Chaîne : en direct sur beIN Sports 2 \r\n Memphis - L.A. Lakers ()Heure : coup d'envoi à 1h30 Chaîne : en direct sur beIN Sports 1 \r\n Milwau… [+77 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news-ca",
+    "name": "Google News (Canada)"
+    },
+    "author": "CBC.ca",
+    "title": "Canadian air passenger rights law will be 'toughest in the world': transport minister - CBC.ca",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9yYWRpby9hc2l0aGFwcGVucy9vbWFyLWFsZ2hhYnJhLWFpci1wYXNzZW5nZXItcmlnaHRzLWJpbGwtMS42ODIxODI30gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2023-04-25T22:15:19+00:00",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "talksport",
+    "name": "TalkSport"
+    },
+    "author": "Robert Calcutt",
+    "title": "Man City vs Arsenal predictions: talkSPORT hosts Ally McCoist, Laura Woods and more preview huge Premier...",
+    "description": "",
+    "url": "https://talksport.com/football/1404000/manchester-city-arsenal-predictions-premier-league/",
+    "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/04/HB-TALKSPORT-ARSENAL-MAN-CITY.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+    "publishedAt": "2023-04-25T12:00:00Z",
+    "content": "Manchester City play host to Arsenal on Wednesday night in what is set to be the biggest game of the season.\r\nBoth sides are competing for this season’s Premier League title that could very well be d… [+4959 chars]"
+    },
+    {
+    "source": {
+    "id": "blasting-news-br",
+    "name": "Blasting News (BR)"
+    },
+    "author": "Blasting News",
+    "title": "Virgínia Fonseca da presentão para o marido, e famosos comentam",
+    "description": "Zé Felipe ganhou um baita presente da esposa, um jatinho, inclusive, ele já estreou seu novo meio de transporte",
+    "url": "https://br.blastingnews.com/tv-famosos/2023/04/video/virginia-fonseca-da-presentao-para-o-marido-e-famosos-comentam-005628601.html",
+    "urlToImage": "https://mediavideo.blastingnews.com/p/4/2023/04/24/359a126a-bf96-40d2-b616-de02426298f4.jpg",
+    "publishedAt": "2023-04-24T13:38:57Z",
+    "content": "Que Virginia Fonseca é uma influenciadora e empresária muito bem remunerada, todos já sabem Mas mesmo para alguém com sua condição financeira, presentear o marido com um jatinho, é surpreendente \r\nO … [+823 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "☄️ Knicks Playoff Special ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+    "urlToImage": null,
+    "publishedAt": "2023-04-17T21:22:15.1716203Z",
+    "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+    "source": {
+    "id": "the-irish-times",
+    "name": "The Irish Times"
+    },
+    "author": "Michael McDowell",
+    "title": "Michael McDowell: Car use is not simply the prerogative of the odious and hysterical middle class",
+    "description": "Michael McDowell: Any suggestion that public transport will suffice to sustain the entire transport needs of a vast number of people is fanciful and unrealistic",
+    "url": "https://www.irishtimes.com/opinion/2023/03/29/car-use-is-not-simply-the-prerogative-of-the-odious-and-hysterical-middle-class/",
+    "urlToImage": "https://www.irishtimes.com/resizer/PjutyV7tTE8E5gbQFWXo3W2Obms=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KVJU64TMR24AFWPRLNDG3IKSOY.jpg",
+    "publishedAt": "2023-03-29T04:00:03Z",
+    "content": "There seems to be a vogue for condemning everyone who doesnt share your opinions as being morally reprehensible, selfish, ignorant or a class enemy. Violent language is often used online against peop… [+4638 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+    "urlToImage": null,
+    "publishedAt": "2022-12-01T18:52:49.4768049Z",
+    "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+    "source": {
+    "id": "the-washington-times",
+    "name": "The Washington Times"
+    },
+    "author": "The Washington Times https://www.washingtontimes.com",
+    "title": "Latest Quizzes",
+    "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+    "url": "https://www.washingtontimes.com/quiz/",
+    "urlToImage": null,
+    "publishedAt": "2022-08-30T16:37:43.8583104Z",
+    "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hindu",
+    "name": "The Hindu"
+    },
+    "author": "The Hindu",
+    "title": "In search of gold: On Tokyo Olympics",
+    "description": "The Olympic Games remain the greatest sporting event for fans and athletes alike",
+    "url": "https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece",
+    "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+    "publishedAt": "2021-07-22T18:32:00Z",
+    "content": "A medal can lose its lustre but the athletes sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an… [+2521 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Rajat Pandit",
+    "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+    "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+    "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2021-04-23T08:29:00Z",
+    "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+    },
+    {
+    "source": {
+    "id": "wired-de",
+    "name": "Wired.de"
+    },
+    "author": "GQ",
+    "title": "Volvo C40 Recharge: Dieses E-SUV schreit nach Sportlichkeit",
+    "description": "Volvo setzt auf emissionsfreies Fahren: Mit dem vollelektrischen C40 Recharge präsentiert der schwedische Automobilhersteller sein zweites E-SUV.",
+    "url": "https://www.gq-magazin.de/auto-technik/article/volvo-c40-recharge-zweites-e-suv-feiert-premiere",
+    "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/volvo-c40-recharge-e-auto-neuheit-aufmjpg.jpg",
+    "publishedAt": "2021-03-03T16:40:18Z",
+    "content": "Im Oktober 2019 stellte Volvo mit dem XC40 Recharge sein erstes Elektroauto vor nun folgt mit dem Volvo C40 Recharge bereits das zweite vollelektrische Modell. Dabei steht das neue E-SUV stellvertret… [+3163 chars]"
+    },
+    {
+    "source": {
+    "id": "wired-de",
+    "name": "Wired.de"
+    },
+    "author": "Felix J. Strohbach",
+    "title": "Pininfarina Battista E-Hypercar: Stärker als Bugatti, teurer als Bentley",
+    "description": "Exklusiver kann ein Hypercar nicht sein – und das ohne Verbrennungsmotor. Der Pininfarina Battista ist ein E-Sportler mit GT-Komfort.",
+    "url": "https://www.gq-magazin.de/auto-technik/article/pininfarina-battista-elektrisches-hypercar-leistung-preis-reichweite",
+    "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/pininfarina-battista-elektrischer-supersportwagen-hypercar-auto-aufmjpg.jpg",
+    "publishedAt": "2021-03-02T11:33:54Z",
+    "content": "13 Zentimeter liegen beim Pininfarina Battista zwischen Pedal und Bodenblech. Sobald der Fahrer sein Bein durchstreckt, entfesselt er 1.900 PS elektrische Power und in wenigen Sekunden katapultiert i… [+4480 chars]"
+    },
+    {
+    "source": {
+    "id": "globo",
+    "name": "Globo"
+    },
+    "author": "Globo",
+    "title": "Botafogo 1 x 3 Atlético-GO - Campeonato Brasileiro rodada 31 - Tempo Real - Globo Esporte",
+    "description": "Campeonato Brasileiro, rodada 31 - veja os melhores momentos e saiba tudo sobre o jogo Botafogo 1 x 3 Atlético-GO: escalação, fotos, vídeos e lances da partida.",
+    "url": "https://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/20-01-2021/botafogo-atletico-go.ghtml",
+    "urlToImage": "https://s2.glbimg.com/0kGRfPsY_U02n0jSMGzxqF4j-64=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/L/p/FUZ5KSSoWB7tQxZ6FviA/preview-share-2x.png",
+    "publishedAt": "2021-01-21T00:37:33.263803Z",
+    "content": null
+    }
+    ]
+    }

@@ -1,0 +1,5 @@
+
+
+
+
+<Route path='/'><News category= 'entertainment'/></Route>
